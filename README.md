@@ -21,7 +21,7 @@ cd backend
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 # Roda em http://localhost:5177
 ```
 
