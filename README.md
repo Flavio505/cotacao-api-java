@@ -12,14 +12,14 @@ Aplicação full-stack para gerenciamento de cotações de moedas.
 
 ### Backend (API Java)
 ```bash
-cd backend
+cd cotacao-api\cotacao-api
 ./mvnw spring-boot:run
 # Roda em http://localhost:8081
 ```
 
 ### Frontend (React)
 ```bash
-cd frontend
+cd cotacao-frontend
 npm install
 npm run dev
 # Roda em http://localhost:5177
